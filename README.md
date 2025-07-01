@@ -2,7 +2,7 @@
 
 ## 规格说明
 
-- 镜像商品：[Zeppelin数据分析工具](https://marketplace.huaweicloud.com/hidden/contents/253a2dc0-df54-4f08-93bb-51eaeff7097e#productid=OFFI1121280108350484480)
+- 镜像商品：[Zeppelin数据分析工具](https://marketplace.huaweicloud.com/contents/253a2dc0-df54-4f08-93bb-51eaeff7097e#productid=OFFI1121280108350484480)
 - 镜像规格：Zeppelin-0.12.0-kunpeng-HCE
 - 适配项：[ECS](https://support.huaweicloud.com/ecs/index.html)
 - CPU架构：ARM
