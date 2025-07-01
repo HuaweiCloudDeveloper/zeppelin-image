@@ -2,7 +2,7 @@
 
 # 一、商品链接
 
-[Zeppelin数据分析工具](https://marketplace.huaweicloud.com/hidden/contents/253a2dc0-df54-4f08-93bb-51eaeff7097e#productid=OFFI1121280108350484480)
+[Zeppelin数据分析工具](https://marketplace.huaweicloud.com/contents/253a2dc0-df54-4f08-93bb-51eaeff7097e#productid=OFFI1121280108350484480)
 
 # 二、商品说明
 
